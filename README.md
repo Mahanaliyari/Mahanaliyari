@@ -33,19 +33,6 @@ I'm most interested in AI and software development. I like building things end t
   <img src="https://skillicons.dev/icons?i=py,ts,js,react,vite,tailwind,fastapi,postgres,html,css,git,github,vercel,vscode" />
 </p>
 
-## 📊 Stats and Activity
-
-### 🔥 Streak Stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahanaliyari&theme=radical" />
-
-### 📊 Stats
-
-<img src="https://raw.githubusercontent.com/Mahanaliyari/Mahanaliyari/main/profile-summary-card-output/default/3-stats.svg" />
-
-### 📈 Top Languages
-
-<img src="https://raw.githubusercontent.com/Mahanaliyari/Mahanaliyari/main/profile-summary-card-output/default/2-most-commit-language.svg" />
 
 ## 📫 Get in touch
 
