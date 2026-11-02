@@ -36,4 +36,4 @@ I'm most interested in AI and software development. I like building things end t
 
 ## 📫 Get in touch
 
-[LinkedIn](https://linkedin.com/in/YOUR_PROFILE) · [Email](mailto:YOUR_EMAIL)
+[LinkedIn](https://www.linkedin.com/in/mahan-aliyari/) · [Email](mailto:mahan.aliyari100@gmail.com)
