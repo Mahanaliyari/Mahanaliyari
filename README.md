@@ -30,7 +30,7 @@ I'm most interested in AI and software development. I like building things end t
 ## 🧰 Tools I use
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,jv,ts,js,react,vite,tailwind,fastapi,postgres,html,css,git,github,vercel,vscode" />
+  <img src="https://skillicons.dev/icons?i=py,java,ts,js,react,vite,tailwind,fastapi,postgres,html,css,git,github,vercel,vscode" />
 </p>
 
 
