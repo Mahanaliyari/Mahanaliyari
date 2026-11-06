@@ -2,7 +2,7 @@ Hello there 👋
 
 # I'm Mahan 🚀
 
-`CS with AI Student | Python | TypeScript | React | FastAPI`
+`CS with AI Student | Python | Java | TypeScript | React | FastAPI`
 
 Second-year BSc Computer Science with Artificial Intelligence student at Keele University, with a First Class average in Year 1 and a Keele Global Awards Scholarship.
 
